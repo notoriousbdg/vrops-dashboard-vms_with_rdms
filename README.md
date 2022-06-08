@@ -49,5 +49,5 @@ This dashboard requires vRealize Operations Cloud.
 Please open an [issue](https://github.com/notoriousbdg/vrops-dashboard-vm_operations/issues) for feedback.
 
 ## Changelog
-2022-06-06
+2022-06-08
 * Initial release
