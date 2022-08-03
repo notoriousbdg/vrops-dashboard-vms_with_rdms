@@ -46,7 +46,7 @@ Use this [vRealize Operations](https://www.vmware.com/products/vrealize-operatio
 
 This dashboard requires vRealize Operations Cloud.
 
-Please open an [issue](https://github.com/notoriousbdg/vrops-dashboard-vm_operations/issues) for feedback.
+Please open an [issue](https://github.com/notoriousbdg/vrops-dashboard-vms_with_rdms/issues) for feedback.
 
 ## Changelog
 2022-06-08
